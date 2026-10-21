@@ -5,6 +5,12 @@
       "date": "2026-11-01",
       "title": "初回リリース",
       "summary": "TomoNexus を公開しました。",
+      "download": {
+        "file": "TomoNexus-1.0.0-win.zip",
+        "size": "249.3MB",
+        "sha256": "F0F36178C422498CF075C5ACD787A8A38CBFB8B7F44E18D8A8F3227E7042FC64",
+        "virustotal": "https://www.virustotal.com/gui/file/f0f36178c422498cf075c5acd787a8a38cbfb8b7f44e18d8a8f3227e7042fc64"
+      },
       "changes": [
         { "type": "new", "text": "Talk（英会話）と Memo（日本語でメモづくり）の2つのモード" },
         { "type": "new", "text": "ひと呼吸モード：話した英語を確認・手直ししてから送れる" },
