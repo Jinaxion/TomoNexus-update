@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-18",
+      "title": "初回リリース",
+      "summary": "TomoNexus を公開しました。",
+      "changes": [
+        { "type": "new", "text": "Talk（英会話）と Memo（日本語でメモづくり）の2つのモード" },
+        { "type": "new", "text": "同梱キャラ（Tomo・Lily・Taka）と、お好きなVRMの読み込み" },
+        { "type": "new", "text": "体験版（無料）と製品版ライセンス（.lic）" },
+        { "type": "new", "text": "新しい版が出たときのお知らせ機能" }
+      ]
+    }
+  ]
+}
