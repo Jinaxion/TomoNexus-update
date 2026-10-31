@@ -22,7 +22,11 @@ Windows アプリ **TomoNexus** の版情報（`update.json`）と更新履歴�
     "file": "TomoNexus-1.1.0-win.zip",
     "size": "250.1MB",
     "sha256": "ZIPのSHA-256（ビルド時に出る値）",
-    "virustotal": "https://www.virustotal.com/gui/file/<SHA-256を小文字で>"
+    "virustotal": "https://www.virustotal.com/gui/file/<SHA-256を小文字で>",
+    "scans": [
+      { "label": "本体 TomoNexus.exe", "url": "https://www.virustotal.com/gui/file/<exeのSHA-256>" },
+      { "label": "tomo-backend.exe", "url": "https://www.virustotal.com/gui/file/<exeのSHA-256>" }
+    ]
   },
   "changes": [
     { "type": "new", "text": "新しくできるようになったこと" },
@@ -38,4 +42,5 @@ Windows アプリ **TomoNexus** の版情報（`update.json`）と更新履歴�
 - `download` は公式サイトの「安心して試してもらうために」と更新履歴に出ます。いちばん新しい `download` が使われます
   - ZIP を作り直したら SHA-256 も変わるので、**BOOTH に置いた ZIP の値**を書く
   - `virustotal` は、その ZIP を VirusTotal で検査したページの URL（`https://www.virustotal.com/` で始まるものだけ表示）
+  - `scans`（任意）は、ZIP の中の .exe を個別に検査した結果。`size` は任意
 - サイトへの反映は、コミットしてから数分かかります
