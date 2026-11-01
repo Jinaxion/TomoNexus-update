@@ -10,8 +10,8 @@
         "sha256": "99D5431E2AA14D4C7BFCC446730CA92448A8642F741E9F4A37D4925416EC3737",
         "virustotal": "https://www.virustotal.com/gui/file/99d5431e2aa14d4c7bfcc446730ca92448a8642f741e9f4a37d4925416ec3737",
         "scans": [
-          { "label": "本体 TomoNexus.exe", "url": "https://www.virustotal.com/gui/file/5d72df708ac8d505ccad873ad6a8b4bed9af7f97b471183daf7ce88e756d690c" },
-          { "label": "tomo-backend.exe", "url": "https://www.virustotal.com/gui/file/f17015f20d7143afa7e5c4a378fd5e8dfc48cab18880b823e4955aaab820a6ee" }
+          { "label": "本体 TomoNexus.exe", "url": "https://www.virustotal.com/gui/file/64f457ff9f4c051d9f3a490b9bfc1224d1bd93ebe79a957081f6b6e0bd387b79" },
+          { "label": "tomo-backend.exe", "url": "https://www.virustotal.com/gui/file/48794402921880fec72fb938c51e008afa62ab443c4d25d4d61191801e7bfa7c" }
         ]
       },
       "changes": [
