@@ -18,6 +18,7 @@
         { "type": "new", "text": "Talk（英会話）と Memo（日本語でメモづくり）の2つのモード" },
         { "type": "new", "text": "ひと呼吸モード：話した英語を確認・手直ししてから送れる" },
         { "type": "new", "text": "聞き書きモード：話しっぱなしで、メモや議事録ができあがる（製品版）" },
+        { "type": "new", "text": "テキスト・Word・Excel・PowerPoint の文字も読んで、キャラと会話できる" },
         { "type": "new", "text": "同梱キャラ（Tomo・Lily・Taka）と、お好きなVRMの読み込み" }
       ]
     }
