@@ -7,11 +7,11 @@
       "summary": "TomoNexus を公開しました。",
       "download": {
         "file": "TomoNexus-1.0.0-win.zip",
-        "sha256": "57E41707DEC51D4FA73BBA3BBA7A3E8BF36BD10EAB831768E155BDBB503EDD93",
-        "virustotal": "https://www.virustotal.com/gui/file/57e41707dec51d4fa73bba3bba7a3e8bf36bd10eab831768e155bdbb503edd93",
+        "sha256": "52606CEC52DE469DCD12BD420CF4A66A1706031C3BA3E239DE4F64B6A4432709",
+        "virustotal": "https://www.virustotal.com/gui/file/52606cec52de469dcd12bd420cf4a66a1706031c3ba3e239de4f64b6a4432709",
         "scans": [
-          { "label": "本体 TomoNexus.exe", "url": "https://www.virustotal.com/gui/file/5269b5cbc91cf2639b39dc1eb88d9686bca1ea58cadf5ff407afa4927854f8b1" },
-          { "label": "tomo-backend.exe", "url": "https://www.virustotal.com/gui/file/5f79d6242bdace8fb67824eb68d498a5666cb7a99886038b2176968bcedaf8df" }
+          { "label": "本体 TomoNexus.exe", "url": "https://www.virustotal.com/gui/file/5d378ac5019be7757308cf2ac5cc9636d1a8ec458fcacbb89b590fde5fce0f32" },
+          { "label": "tomo-backend.exe", "url": "https://www.virustotal.com/gui/file/02317cc512a8257e84e3398574a03bda12777f667609abd656f9a9b28cda5090" }
         ]
       },
       "changes": [
